@@ -68,6 +68,9 @@
             "url": "./data/3worldwishes/0Asian/28Hengshui_116_38/image/赵宁_北京.jpg"
         },{
             "type": "image",
+            "url": "./data/3worldwishes/0Asian/28Hengshui_116_38/image/天天_北京.jpg"
+        },{
+            "type": "image",
             "url": "./data/3worldwishes/0Asian/28Hengshui_116_38/image/执子之手_英举love圈圈.jpg"
         }],
         "urlJson": "./data/3worldwishes/6Asian/info.json"
