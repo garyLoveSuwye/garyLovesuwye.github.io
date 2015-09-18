@@ -19,7 +19,8 @@
 
     this.textDiv.css('opacity',1);
 
-    this.regionDiv.text(region);
+    // this.regionDiv.text(region);
+    this.regionDiv.html(region); 
     this.nameDiv.text(name);
     this.areaDiv.text(area);
     this.helperDiv.text(helper);
