@@ -60,6 +60,7 @@
     .css('verticalAlign','middle')
     .css('background','rgba(0,0,0,'+alpha+')')
     .css('lineHeight',height+'px')
+    .css('padding', '0 20px');
 
     this.textDiv.append(div);
   }
@@ -72,7 +73,7 @@
     .css('top','25%')
     .css('left','5%')
     .css('height','70%')
-    .css('width','20%')
+    .css('minWidth','15%')
     .css('zIndex','100000')
     .css('opacity',0)
     // .css('background','rgba(255,2,22,0.1)');
